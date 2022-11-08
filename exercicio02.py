@@ -5,5 +5,5 @@
 #frase = frase.replace("Python" , "android")
 #print(frase)
 
-#nome = input("digite um nome")
-#print("silva" in nome)
+nome = input("digite um nome")
+print("silva" in nome)
