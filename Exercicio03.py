@@ -17,12 +17,12 @@
     #print("seja bem vindo!") 
 #print("bom dia, {}!".format(nome))
 
-#num = int(input("digite um numero"))
-#parouimpar = num% 2
-#if parouimpar == 0:
-    #print("é par")
-#else:
-    #print("é impar")
+num = int(input("digite um numero"))
+parouimpar = num% 2
+if parouimpar == 0:
+    print("é par")
+else:
+    print("é impar")
 
 
 
